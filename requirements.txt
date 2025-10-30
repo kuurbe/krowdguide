@@ -2,3 +2,6 @@ fastapi
 scikit-learn
 pandas
 numpy
+streamlit
+boto3
+pandas
